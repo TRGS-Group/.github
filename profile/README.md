@@ -28,8 +28,7 @@ you have access to.
 | [Internal tools](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainternal-tool) | Tools for the studio's day-to-day work |
 | [Brand & studio](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Abrand) | Studio identity and presentation |
 
-[All repositories](https://github.com/orgs/TRGS-Group/repositories) ·
-[Codex Watch](https://github.com/TRGS-Group/codex-watch) — our public quota dashboard.
+[All repositories](https://github.com/orgs/TRGS-Group/repositories)
 
 ### Four disciplines. One adaptive identity.
 
