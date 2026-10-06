@@ -14,6 +14,23 @@ carry the work from the first question to a working system.
 Our work spans digital experiences, AI applications, business systems, and the
 strategy that connects them to people's ambitions.
 
+### Find a repository
+
+Choose an area to browse its repositories. Sign in to include private repositories
+you have access to.
+
+| Area | What you'll find |
+| :--- | :--- |
+| [Client projects](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Aclient-project) | Websites and digital experiences built for clients |
+| [Products](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Aproduct) | Applications and platforms we develop |
+| [Infrastructure](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainfrastructure) | Hosting, deployment, networking, and domain operations |
+| [Shared libraries](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ashared-library) | Reusable UI and website building blocks |
+| [Internal tools](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainternal-tool) | Tools for the studio's day-to-day work |
+| [Brand & studio](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Abrand) | Studio identity and presentation |
+
+[All repositories](https://github.com/orgs/TRGS-Group/repositories) ·
+[Codex Watch](https://github.com/TRGS-Group/codex-watch) — our public quota dashboard.
+
 ### Four disciplines. One adaptive identity.
 
 | | What it brings to the work |
