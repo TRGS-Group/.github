@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/TRGS-Group/.github/main/assets/trgs-header.png" alt="TRGS Group — Pioneer Studio. Technology. Research. Growth." width="100%">
 </a>
 
+**English** · [简体中文](https://github.com/TRGS-Group/.github/blob/main/profile/README.zh-CN.md)
+
 <p align="center">
   <a href="https://trgs.group">Explore the studio</a> &nbsp; · &nbsp;
   <a href="https://brand.trgs.group/#initiate">Initiate your idea</a>
@@ -19,16 +21,16 @@ strategy that connects them to people's ambitions.
 
 Sign in to include repositories you have access to.
 
-| Area | 分类 |
-| :--- | :--- |
-| [Client projects](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Aclient-project) | 客户项目 |
-| [Products](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Aproduct) | 产品 |
-| [Infrastructure](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainfrastructure) | 基础设施 |
-| [Shared libraries](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ashared-library) | 共享组件与库 |
-| [Internal tools](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainternal-tool) | 内部工具 |
-| [Brand & studio](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Abrand) | 品牌与工作室 |
+| Area |
+| :--- |
+| [Client projects](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Aclient-project) |
+| [Products](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Aproduct) |
+| [Infrastructure](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainfrastructure) |
+| [Shared libraries](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ashared-library) |
+| [Internal tools](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainternal-tool) |
+| [Brand & studio](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Abrand) |
 
-[All repositories / 全部仓库](https://github.com/orgs/TRGS-Group/repositories)
+[All repositories](https://github.com/orgs/TRGS-Group/repositories)
 <!-- directory-sync:end -->
 
 ### Four disciplines. One adaptive identity.
