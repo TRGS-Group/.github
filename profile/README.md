@@ -16,23 +16,6 @@ carry the work from the first question to a working system.
 Our work spans digital experiences, AI applications, business systems, and the
 strategy that connects them to people's ambitions.
 
-<!-- directory-sync:start -->
-### Find a repository
-
-Sign in to include repositories you have access to.
-
-| Area |
-| :--- |
-| [Client projects](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Aclient-project) |
-| [Products](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Aproduct) |
-| [Infrastructure](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainfrastructure) |
-| [Shared libraries](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ashared-library) |
-| [Internal tools](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainternal-tool) |
-| [Brand & studio](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Abrand) |
-
-[All repositories](https://github.com/orgs/TRGS-Group/repositories)
-<!-- directory-sync:end -->
-
 ### Four disciplines. One adaptive identity.
 
 | | What it brings to the work |
@@ -56,3 +39,21 @@ move forward on your terms.
 **Have something in mind?** [Initiate your idea](https://brand.trgs.group/#initiate).
 
 <sub>TRGS Group · Canada · <a href="https://trgs.group">trgs.group</a></sub>
+
+<!-- directory-sync:start -->
+### Find a repository
+
+Sign in to include repositories you have access to.
+
+| Area |
+| :--- |
+| [Client projects](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Aclient-project) |
+| [Products](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Aproduct) |
+| [Infrastructure](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainfrastructure) |
+| [Shared libraries](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ashared-library) |
+| [Internal tools](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainternal-tool) |
+| [Brand & studio](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Abrand) |
+
+[All repositories](https://github.com/orgs/TRGS-Group/repositories)
+<!-- directory-sync:end -->
+

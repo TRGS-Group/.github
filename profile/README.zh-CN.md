@@ -14,23 +14,6 @@
 
 我们的工作涵盖数字体验、人工智能应用、业务系统，以及将这些成果与人们的目标连接起来的策略。
 
-<!-- directory-sync:start -->
-### 查找仓库
-
-登录后可查看你有权访问的仓库。
-
-| 分类 |
-| :--- |
-| [客户项目](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Aclient-project) |
-| [产品](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Aproduct) |
-| [基础设施](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainfrastructure) |
-| [共享组件与库](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ashared-library) |
-| [内部工具](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainternal-tool) |
-| [品牌与工作室](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Abrand) |
-
-[全部仓库](https://github.com/orgs/TRGS-Group/repositories)
-<!-- directory-sync:end -->
-
 ### 四种视角，同一个不断适应的身份。
 
 | | 为工作带来的价值 |
@@ -52,3 +35,21 @@
 **有了想法？** [让它启程](https://brand.trgs.group/#initiate)。
 
 <sub>TRGS Group · 加拿大 · <a href="https://trgs.group">trgs.group</a></sub>
+
+<!-- directory-sync:start -->
+### 查找仓库
+
+登录后可查看你有权访问的仓库。
+
+| 分类 |
+| :--- |
+| [客户项目](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Aclient-project) |
+| [产品](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Aproduct) |
+| [基础设施](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainfrastructure) |
+| [共享组件与库](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ashared-library) |
+| [内部工具](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Ainternal-tool) |
+| [品牌与工作室](https://github.com/orgs/TRGS-Group/repositories?q=topic%3Abrand) |
+
+[全部仓库](https://github.com/orgs/TRGS-Group/repositories)
+<!-- directory-sync:end -->
+
